@@ -1,0 +1,10 @@
+.bg{
+    margin: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    gap: 20px;
+    
+    
+   
+}

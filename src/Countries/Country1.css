@@ -1,0 +1,42 @@
+.section{
+   padding-bottom: 20px;
+   padding-top: 20px;
+   border-radius: 5px;
+   border: 2px solid transparent;
+   background-color: bisque;
+   box-shadow: 10px 10px 5px gray;
+}
+.content h2,h3,h4,h5{
+    background-color: bisque;
+}
+.content{
+    background-color: bisque;
+}
+.card{
+    background-color: bisque;
+}
+.section img{
+    height: 55px;
+    width: 95px;
+}
+.section button{
+    background-color: rgb(212, 103, 30);
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+    box-shadow: 5px 5px 3px gray;
+    height: 40px;
+    width: 85px;
+    cursor: pointer;
+    margin: 5px;
+    
+}
+.section button:hover{
+    background-color:rgb(226, 137, 77);
+}
+
+.official{
+    color: brown;
+    background-color: transparent;
+    font-weight: 800;
+}
